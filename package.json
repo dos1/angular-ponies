@@ -1,0 +1,25 @@
+{
+  "name": "angular-ponies",
+  "version": "0.0.0",
+  "description": "Angular service for loading and launching Browser Ponies",
+  "main": "angular-ponies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dos1/angular-ponies.git"
+  },
+  "keywords": [
+    "ponies",
+    "angular",
+    "browserponies",
+    "pony",
+    "mlp"
+  ],
+  "author": "Sebastian Krzyszkowiak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dos1/angular-ponies/issues"
+  }
+}
